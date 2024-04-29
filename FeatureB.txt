@@ -1,1 +1,1 @@
-ini feature B
+ini adalah feature B
