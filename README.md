@@ -18,4 +18,4 @@
 - git branch -> untuk show list branch
 - git checkout <nama branch> -> untuk pindah branch
 - git branch -D <nama branch> -> untuk hapus branch
-- git checkout -b <nama branch> -> untuk bikin branch baru lalu pindah ke branch tersebut
+- git checkout -b <nama branch> -> untuk membuat branch baru lalu pindah ke branch yg telah dibuat
