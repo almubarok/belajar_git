@@ -13,3 +13,9 @@
 - git push origin <nama branch> -> untuk push ke origin
 - git pull origin <nama branch> -> untuk pull dari origin
 
+## Branch
+- git branch <nama branch> -> untuk bikin branch baru
+- git branch -> untuk show list branch
+- git checkout <nama branch> -> untuk pindah branch
+- git branch -D <nama branch> -> untuk hapus branch
+- git checkout -b <nama branch> -> untuk membuat branch baru lalu pindah ke branch yg telah dibuat
