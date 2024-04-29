@@ -3,3 +3,5 @@ ini feature C
 halo halo bandung
 ibukota perinangan
 kot a kenang knanagnan
+
+lorem ipsum
