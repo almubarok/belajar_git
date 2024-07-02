@@ -2,4 +2,4 @@
 
 person = 'zola'
 
-print("Hello " +person+", have a nice day")
+print("Hello " +person+", have a nice day!")
